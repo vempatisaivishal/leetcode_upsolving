@@ -22,10 +22,14 @@ This project is open source
 
 ## Acknowledgments
 
-Special thanks to Vempati Sai Vishal and Chittimella Praneeth for creating and maintaining this repository.
+Special thanks to Vempati Sai Vishal, Chitimella Praneeth and Pulijala Sai Rahul for creating and maintaining this repository.
 
 ## Contact
 
 For further details or inquiries, please contact the repository owner at vempatisaivishal@gmail.com.
 
-Happy coding!
+##Note
+Currently we are providing codes for Codechef and Leetcode contest only. We plan to include Codeforces from Jan 1st 2024.
+Stay tuned for Open source ideas
+
+Happy Coding!
